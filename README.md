@@ -13,7 +13,10 @@ nw.js version: [azu/nw-normalize-menu](https://github.com/azu/nw-normalize-menu 
 ## Usage
 
 ```js
-require("electron-template-menu")();
+var app = require('app');
+app.on('ready', function () {
+    require("electron-template-menu")();
+});
 ```
 
 ### Get template
