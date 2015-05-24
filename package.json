@@ -1,0 +1,26 @@
+{
+  "name": "electron-template-menu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/electron-template-menu.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/electron-template-menu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/electron-template-menu/issues"
+  },
+  "version": "1.0.0",
+  "description": "electron template menu",
+  "main": "lib/electron-template-menu.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "electron",
+    "menu"
+  ]
+}
