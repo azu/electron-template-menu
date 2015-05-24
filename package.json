@@ -11,15 +11,16 @@
   "bugs": {
     "url": "https://github.com/azu/electron-template-menu/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "electron template menu",
   "main": "lib/electron-template-menu.js",
-  "files":["lib"],
+  "files": [
+    "lib"
+  ],
   "directories": {
     "test": "test"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "electron",
     "menu"
